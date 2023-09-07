@@ -8,14 +8,15 @@ if bus=='1':
    man= input('&&->')
 
    if man=='1':
+     
      print('The man blows your ass off, good job but soo bad!!')
-     man=='2'print("You travel to Nairobi by two buses,Do you go by bus#1 or by bus#2?\n") 
+     man=='2'print ("You travel to Nairobi by two buses,Do you go by bus#1 or by bus#2?\n") 
 bus=
-
 print('The man breaks your arm off, good job but also so bad')
 
 print('well, doing{man}is actually better,')
 print('The man runs away...')
+
 
 bus=='2'
 print('You stair into the endless abyss at cthulhu\n retina.')
